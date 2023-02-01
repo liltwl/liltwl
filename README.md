@@ -15,7 +15,7 @@ However, I'm also intensively exploring such topics like (among other things): \
 🔹 RSocket
 
 # 🏫school
-[![otaouil's 42 stats](https://badge.mediaplus.ma/kettlebells/otaouil)]
+![otaouil's 42 stats](https://badge.mediaplus.ma/kettlebells/otaouil)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=liltwl&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
