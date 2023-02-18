@@ -4,15 +4,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-taouil-0ba75b17a) 
 ### 🛠 &nbsp;Tech Stack (mostly)
 
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![JS](https://img.shields.io/badge/javascript-%236DB33F.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/REACT-%236DB33F.svg?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%236DB33F.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NEST](https://img.shields.io/badge/nestjs-%236DB33F.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-However, I'm also intensively exploring such topics like (among other things): \
-🔹 Apache Kafka \
-🔹 Knative \
-🔹 Quarkus \
-🔹 RSocket
+
+
 
 # 🏫school
 ![otaouil's 42 stats](https://badge.mediaplus.ma/kettlebells/otaouil)
